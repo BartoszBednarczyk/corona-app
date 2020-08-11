@@ -1,0 +1,11 @@
+.title {
+    margin: 10px 0 -10px 0 !important;
+}
+
+
+@media (max-width: 770px) {
+    .title {
+        font-size: 3em !important;
+    }
+    
+}
